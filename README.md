@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Thiago 👋
 
-<!--
-**thiagomotaofice-create/thiagomotaofice-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer building automation and internal tools for Brazilian fiscal & financial workflows.
 
-Here are some ideas to get you started:
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🇺🇸 About
+
+- 🌎 Based in Curitiba, Brazil
+- 💼 Working at the intersection of finance/accounting operations and software, building internal platforms and automation
+- 🧾 Deep hands-on experience with Brazilian fiscal systems: NFSe, SPED, and Protheus/TOTVS
+- 🛠️ Stack: .NET + React for internal platforms, Python + Playwright for automation
+- 🎯 Currently exploring tools to simplify fiscal/financial operations for Brazilian small and medium businesses
+- 🌱 Always learning, recent focus areas include EF Core, database migrations, and RBAC/multi-tenant architecture
+
+### 🇧🇷 Sobre
+
+- 🌎 Baseado em Curitiba, Brasil
+- 💼 Atuo na interseção entre operações financeiras/contábeis e desenvolvimento de software, construindo plataformas internas e automações
+- 🧾 Experiência prática com sistemas fiscais brasileiros: NFSe, SPED e Protheus/TOTVS
+- 🛠️ Stack: .NET + React para plataformas internas, Python + Playwright para automação
+- 🎯 Atualmente explorando ferramentas para simplificar operações fiscais/financeiras para PMEs brasileiras
+- 🌱 Sempre aprendendo, focos recentes incluem EF Core, migrações de banco de dados e arquitetura RBAC/multi-tenant
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomotaofice-create&show_icons=true&theme=default&hide_title=true)
