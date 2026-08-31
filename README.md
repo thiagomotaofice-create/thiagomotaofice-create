@@ -31,4 +31,4 @@ Developer building automation and internal tools for Brazilian fiscal & financia
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomotaofice-create&show_icons=true&theme=default&hide_title=true)
+<sub>Thanks for stopping by! Feel free to explore my repositories.</sub>
